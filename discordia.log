@@ -6,3 +6,11 @@
 2022-09-13 19:22:27 | [INFO]    | Connecting to Discord...
 2022-09-13 19:22:28 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
 2022-09-13 19:22:28 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-14 15:53:02 | [INFO]    | Discordia 2.9.2
+2022-10-14 15:53:02 | [INFO]    | Connecting to Discord...
+2022-10-14 15:53:02 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-14 15:53:02 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-14 16:47:59 | [INFO]    | Discordia 2.9.2
+2022-10-14 16:47:59 | [INFO]    | Connecting to Discord...
+2022-10-14 16:47:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-10-14 16:47:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
