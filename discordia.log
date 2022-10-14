@@ -14,3 +14,150 @@
 2022-10-14 16:47:59 | [INFO]    | Connecting to Discord...
 2022-10-14 16:47:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
 2022-10-14 16:47:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-10-14 16:58:00 | [INFO]    | Discordia 2.9.2
+2022-10-14 16:58:00 | [INFO]    | Connecting to Discord...
+2022-10-14 16:58:00 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 16:58:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 16:58:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 16:58:00 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 16:58:00 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:01:13 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:01:13 | [INFO]    | Connecting to Discord...
+2022-10-14 17:01:14 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:01:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:01:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:01:14 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:01:14 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:01:39 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:01:39 | [INFO]    | Connecting to Discord...
+2022-10-14 17:01:39 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:01:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:01:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:01:39 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:01:39 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:01:56 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:01:56 | [INFO]    | Connecting to Discord...
+2022-10-14 17:01:56 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:01:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:01:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:01:56 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:01:56 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:03:05 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:03:05 | [INFO]    | Connecting to Discord...
+2022-10-14 17:03:05 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:03:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:03:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:03:05 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:03:05 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:20:59 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:20:59 | [INFO]    | Connecting to Discord...
+2022-10-14 17:20:59 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:20:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:20:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:20:59 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:21:00 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:21:55 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:21:55 | [INFO]    | Connecting to Discord...
+2022-10-14 17:21:55 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:21:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:21:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:21:55 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:21:56 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:28:09 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:28:09 | [INFO]    | Connecting to Discord...
+2022-10-14 17:28:09 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:28:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:28:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:28:09 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:28:09 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:28:24 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:28:24 | [INFO]    | Connecting to Discord...
+2022-10-14 17:28:25 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:28:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:28:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:28:25 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:28:25 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:28:41 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:28:41 | [INFO]    | Connecting to Discord...
+2022-10-14 17:28:41 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:28:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:28:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:28:41 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:28:41 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:29:30 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:29:30 | [INFO]    | Connecting to Discord...
+2022-10-14 17:29:30 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:29:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:29:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:29:30 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:29:31 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:35:25 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:35:25 | [INFO]    | Connecting to Discord...
+2022-10-14 17:35:25 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:35:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:35:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:35:25 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:35:25 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:36:50 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:36:50 | [INFO]    | Connecting to Discord...
+2022-10-14 17:36:50 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:36:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:36:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:36:50 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:36:51 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:39:20 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:39:20 | [INFO]    | Connecting to Discord...
+2022-10-14 17:39:20 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:39:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:39:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:39:20 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:39:20 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:41:34 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:41:34 | [INFO]    | Connecting to Discord...
+2022-10-14 17:41:34 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:41:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:41:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:41:34 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:41:34 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:43:29 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:43:29 | [INFO]    | Connecting to Discord...
+2022-10-14 17:43:29 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:43:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:43:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:43:29 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:43:30 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:43:41 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:43:41 | [INFO]    | Connecting to Discord...
+2022-10-14 17:43:41 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:43:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:43:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:43:41 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:43:42 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:47:54 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:47:54 | [INFO]    | Connecting to Discord...
+2022-10-14 17:47:54 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:47:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:47:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:47:54 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:47:54 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:48:06 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:48:06 | [INFO]    | Connecting to Discord...
+2022-10-14 17:48:06 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:48:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:48:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:48:06 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:48:06 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:48:54 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:48:54 | [INFO]    | Connecting to Discord...
+2022-10-14 17:48:54 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:48:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:48:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:48:54 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:48:54 | [INFO]    | Shard 0 : Received READY
+2022-10-14 17:49:57 | [INFO]    | Discordia 2.9.2
+2022-10-14 17:49:57 | [INFO]    | Connecting to Discord...
+2022-10-14 17:49:59 | [INFO]    | Authenticated as Breeze.Lua#2205
+2022-10-14 17:49:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-10-14 17:49:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-10-14 17:49:59 | [INFO]    | Shard 0 : Received HELLO
+2022-10-14 17:49:59 | [INFO]    | Shard 0 : Received READY
