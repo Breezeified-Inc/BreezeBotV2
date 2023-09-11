@@ -3,7 +3,7 @@ local client = discordia.Client()
 local fs = require('fs');
 local json = require('json');
 local config = json.decode(fs.readFileSync('config.json'))
-
+-- h
 
 client:on("ready", function()
 	print(h)
